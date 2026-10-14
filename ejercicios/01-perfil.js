@@ -3,3 +3,8 @@
 // Declara const nombre (texto), let edad (número), const instituto (texto) y let matriculado (booleano). Muestra una oración con console.log.
 
 // TODO: escribe aquí tu solución.
+const nombre="lucero";
+let edad=21;
+const instituto="idat";
+let matriculado=true;
+console.log("Hola me llamo",nombre,"tengo",edad,"años","Estudio en",instituto,);
